@@ -1,7 +1,15 @@
 ### Hi there, I'm *Prajwal Surya Prakash* 👋  
 #### 🚀 Data Analyst | AI Enthusiast | Python Developer  
 
-Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Predictive Modeling, Automation, and **Cloud Computing. Strong background in **Python, SQL, ETL, and **Big Data Technologies, with a passion for **Machine Learning & AI. Skilled in building **high-performance scalable solutions* that drive *data-driven business decisions. Currently pursuing my Masters in **Big Data Science* from *Queen Mary University of London, where I have gained expertise in Python, ML & AI, PowerBI.  
+Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Predictive Modeling, Automation, and Cloud Computing*. Strong background in *Python, SQL, ETL* and *Big Data Technologies*, with a passion for *Machine Learning & AI. Skilled in building* *high-performance scalable solutions* that drive data-driven business decisions. Currently pursuing my Masters in *Big Data Science* from *Queen Mary University of London*, where I have gained expertise in *Python, ML & AI, PowerBI*.  
+
+---
+
+### 📢 Let's Connect & Collaborate!  
+<p align="center"> <a href="https://www.linkedin.com/in/prajwal-surya-prakash-7bb980246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PrajwalSuryaPrakash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prajwalsuryaprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+</p>
 
 ---
 
@@ -13,7 +21,7 @@ Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Pr
 💬 Ask me about *Python, Data Analytics, and Machine Learning!*
 
 📫 Reach me: *prajwalsuryaprakash@gmail.com*  
-🔗 [*LinkedIn](https://www.linkedin.com/in/prajwal-surya-prakash-7bb980246/) | [GitHub*](https://github.com/prajwalsurya)  
+🔗 [*LinkedIn](https://www.linkedin.com/in/prajwal-surya-prakash-7bb980246/) | [GitHub*](https://github.com/PrajwalSuryaPrakash)  
 
 ---
 
@@ -76,8 +84,4 @@ Utilized ARIMA, SARIMA, LSTM, and GRU to improve forecasting accuracy.
 
 ⭐ *Fun Fact*: "AI doesn't just predict trends, it creates them!" 🧠🚀  
 
-### 📢 Let's Connect & Collaborate!  
-<p align="center"> <a href="https://www.linkedin.com/in/prajwal-surya-prakash-7bb980246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/PrajwalSuryaPrakash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:prajwalsuryaprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-</p>
+
