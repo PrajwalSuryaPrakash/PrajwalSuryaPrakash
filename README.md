@@ -1,5 +1,5 @@
 ### Hi there, I'm *Prajwal Surya Prakash* 👋  
-#### 🚀 Data Analyst | AI Enthusiast | Python Developer  
+#### 🚀 Data Analyst | AI Enthusiast |
 
 Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Predictive Modeling, Automation, and Cloud Computing*. Strong background in *Python, SQL, ETL* and *Big Data Technologies*, with a passion for *Machine Learning & AI. Skilled in building* *high-performance scalable solutions* that drive data-driven business decisions. Currently pursuing my Masters in *Big Data Science* from *Queen Mary University of London*, where I have gained expertise in *Python, ML & AI, PowerBI*.  
 
