@@ -52,8 +52,8 @@ Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Pr
 
 ### 📊 GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalsurya&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalsurya" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalsuryaprakash&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalsuryaprakash" width="48%" />
 </p>
 
 ---
