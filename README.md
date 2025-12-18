@@ -25,8 +25,6 @@ Data Engineer / Data Scientist with 4+ years of experience in database developme
 
 ---
 
-## 🛠 Technical Skills   
-
 ## 🛠️ Technical Skills
 
 | Category | Skills |
