@@ -1,7 +1,7 @@
 ### Hi there, I'm *Prajwal Surya Prakash* 👋  
 #### 🚀 Data Analyst | AI Enthusiast | Data Science 
 
-Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Predictive Modeling, Automation, and Cloud Computing*. Strong background in *Python, SQL, ETL* and *Big Data Technologies*, with a passion for *Machine Learning & AI. Skilled in building* *high-performance scalable solutions* that drive data-driven business decisions. Graduated as Masters in *Big Data Science* from *Queen Mary University of London*, where I have gained expertise in *Python, ML & AI, PowerBI*.  
+Data Engineer / Data Scientist with 4+ years of experience in database development, ETL pipelines, data modeling, and big data analytics. Strong expertise in Python for data manipulation and machine learning using NumPy, Pandas, Scikit-Learn, and Statsmodels. Extensive experience with Snowflake (Time Travel, Cloning, Multi-Cluster Warehouses, Data Sharing) and cloud platforms including AWS (S3, EMR, Glue, Athena, Redshift) and Azure (Blob Storage, Azure ML). Proficient in Hadoop, Spark (Scala), Hive, Pig, MapReduce, and NoSQL databases. Proven ability in data warehouse migrations (Teradata to Snowflake), performance tuning, and building scalable end-to-end data solutions. Graduated as Masters in *Big Data Science* from *Queen Mary University of London*, where I have gained expertise in *Python, ML & AI, PowerBI*.  
 
 ---
 
@@ -27,14 +27,22 @@ Motivated *Data Analyst* with over *a year of experience* in *Data Analytics, Pr
 
 ## 🛠 Technical Skills   
 
+## 🛠️ Technical Skills
+
 | Category | Skills |
 |-------------|-----------|
-| Programming Languages | Python, SQL, R, HTML/CSS |
-| Data & AI | Machine Learning, NLP, Data Analytics, Predictive Modeling |
-| Tools & Frameworks | Git, Selenium, JIRA, Confluence, CI/CD Pipelines |
-| Business Intelligence | Tableau, Power BI, Power Query |
-| Cloud & Databases | AWS, Snowflake, HANA DB, PostgreSQL |
-| Other Skills | API Design, Agile (Scrum), Workflow Optimization |
+| **Programming & Scripting** | Python, Java, Scala, SQL, PL/SQL, T-SQL, SQLite |
+| **Data Engineering & ETL** | ETL Pipelines, Data Modeling, Data Warehousing, Data Migration, Ab Initio, Informatica, Snowflake, Sqoop, SQL Loader |
+| **Big Data & Distributed Systems** | Apache Spark, PySpark, Hadoop (HDFS, YARN, MapReduce), Hive, Pig, Impala, HBase, Cassandra, Flume, Storm |
+| **Machine Learning & Analytics** | Scikit-learn, Statsmodels, TensorFlow, NLTK, Time Series Analysis, Feature Engineering, Model Training & Evaluation |
+| **Data Analysis & Visualization** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Databases & Data Warehousing** | Snowflake, Teradata, Oracle, SQL Server, MySQL, IBM DB2, NoSQL Databases |
+| **Cloud Platforms** | AWS (S3, EMR, Glue, Athena, Redshift), Azure (Blob Storage, Azure ML Studio) |
+| **APIs, Testing & Automation** | Spark SQL, PyTest, Selenium, SOAP, WSDL, Defect Tracking |
+| **Version Control & Dev Tools** | Git, JIRA, Bugzilla, TOAD, SQL Developer, ANT, Log4J |
+| **Web Technologies** | HTML, CSS, XML |
+| **Productivity Tools** | Microsoft Office |
+
 
 ---
 
