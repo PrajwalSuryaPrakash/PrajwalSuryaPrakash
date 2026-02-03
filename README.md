@@ -62,6 +62,9 @@ Data Engineer / Data Scientist with 4+ years of experience in database developme
   <img src="https://streak-stats.demolab.com?user=prajwalsuryaprakash" width="48%" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=prajwalsuryaprakash&show_icons=true&cache_seconds=1800" width="48%" />
+<img src="https://streak-stats.demolab.com?user=prajwalsuryaprakash&type=svg" width="48%" />
+
 
 ---
 
